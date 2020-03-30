@@ -1,4 +1,4 @@
-%Experimental setup @ tandemlab in uppsala (?)
+%Experimental setup @ tandemlab in uppsala
 d1 = 0.40;                            %distance between MCP1 & MCP2
 d2 = 0.10;                            %distance between MCP2 & Si/detector
 
@@ -7,5 +7,5 @@ E = 44e6;                             %Energy of ion
 
 v = velocity(E,A);                    % velocity of Ion 
 
-t1 = d1/v;
-t2 = (d1+d2)/v;
+TOF1 = d1/v                             % TOF1
+TOF2 = (d1+d2)/v                        % TOF2
