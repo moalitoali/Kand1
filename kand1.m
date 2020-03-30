@@ -17,12 +17,5 @@ TOF2 = (d1+d2)./v;                        % TOF2
 %%Git commit -m "meddelande"
 %%Git push 
 
-<<<<<<< HEAD
 
-
-
-
-
-=======
->>>>>>> bdc0fc70c0be912368ce01a040694bfa1f835892
->>>>>>> refs/remotes/origin/master
+%%skriv en kommentar eller något
