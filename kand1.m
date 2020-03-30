@@ -7,16 +7,9 @@ E = 44e6;                             % Energy of ion
 v = velocity(E,A);                    % velocity of Ion 
 
 TOF1 = d1./v;                             % TOF1
-<<<<<<< HEAD
 TOF2 = (d1+d2)./v;                        % TOF2
-=======
-TOF2 = (d1+d2)./v;                        % TOF2
-
-
-
 
 %%Git add "namn".m
 %%Git commit -m "meddelande"
 %%Git push 
 
->>>>>>> bdc0fc70c0be912368ce01a040694bfa1f835892
