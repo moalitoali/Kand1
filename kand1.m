@@ -10,3 +10,10 @@ v = velocity(E,A);                    % velocity of Ion
 TOF1 = d1./v;                             % TOF1
 TOF2 = (d1+d2)./v;                        % TOF2
 
+
+
+
+%%Git add "namn".m
+%%Git commit -m "meddelande"
+%%Git push 
+
